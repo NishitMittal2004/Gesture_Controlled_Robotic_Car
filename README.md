@@ -45,7 +45,7 @@ This project was a collaborative effort:
   - Yuvraj took charge of the intricate hardware assembly, demonstrating exceptional technical skills. His attention to detail and hands-on expertise ensured the robust functioning of the robot car.
 - Enthusiastic dedication: [Manish Jain]
   - While Manish might not have provided technical expertise, his dedication and hard work shone through in every aspect of the project. His emotional investment significantly contributed to the success and spirit of the endeavour.
-- Mentorship and guidance: [Your Senior's Name - Naman]
+- Mentorship and guidance: [Naman Sood]
   - Naman, our senior, played a vital role as a mentor throughout the project. His guidance, feedback, and experience significantly shaped the project's direction and outcomes.
 
 
