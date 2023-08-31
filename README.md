@@ -1,6 +1,6 @@
 # Gesture Controlled Robot Car
 
-![Robot Car](https://github.com/NishitMittal2004/Gesture_Controlled_Robotic_Car/blob/main/robot car.jpeg)
+![Robot Car](https://github.com/NishitMittal2004/Gesture_Controlled_Robotic_Car/blob/main/robot%20car.jpeg)
 
 ## Introduction
 
