@@ -1,6 +1,6 @@
 # Gesture Controlled Robot Car
 
-![Robot Car]([https://drive.google.com/file/d/1bJEu76_NkqoOy695N5aKqOXGrmQ0cqiF/view?usp=sharing](https://drive.google.com/file/d/1bJEu76_NkqoOy695N5aKqOXGrmQ0cqiF/view?usp=sharing))
+![Robot Car](robot car.jpeg)
 
 ## Introduction
 
