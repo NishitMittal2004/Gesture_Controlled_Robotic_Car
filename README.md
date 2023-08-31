@@ -1,6 +1,7 @@
 # Gesture Controlled Robot Car
 
-![Robot Car](https://github.com/NishitMittal2004/Gesture_Controlled_Robotic_Car/blob/main/robot%20car.jpeg)
+<img src="https://github.com/NishitMittal2004/Gesture_Controlled_Robotic_Car/blob/main/robot%20car.jpeg" alt="Robot Car" height="400">
+
 
 ## Introduction
 
